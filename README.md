@@ -4,19 +4,13 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/morgan-401-advanced-javascript/lab22/pull/1)
-* [travis](http://xyz.com)
-* [CodeSandbox](https://codesandbox.io/s/github/morgan-401-advanced-javascript/lab22/tree/working)
-* [front-end](http://xyz.com) (when applicable)
+* [travis](http://xyz.com) not updated
+* [CodeSandbox](https://codesandbox.io/s/interesting-brahmagupta-z2lol) in progress
+* [front-end](http://xyz.com) (when applicable) not updated
 
 #### Documentation
 * [jsdoc](http://xyz.com) (Server assignments)
 * [styleguide](http://xyz.com) (React assignments)
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
